@@ -1,3 +1,5 @@
+package com.example.gitex.card;
+
 import com.example.gitex.user.User;
 
 public class Card {
