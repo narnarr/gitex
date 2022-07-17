@@ -1,3 +1,5 @@
+package com.example.gitex.user;
+
 public class User {
     private String name;
     private int age;
